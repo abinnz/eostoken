@@ -6,13 +6,13 @@ http://static.eostoken.im/invite/index.html#582343
 {
 	"log_file": "passcount.txt",	//记录已注册号码
 	"eostoken": {
-		"inviter_id": "",			//邀请者id
-		"password": ""				//注册账号密码
+		"inviter_id": "",       //邀请者id
+		"password": ""          //注册账号密码
 	},
 	"ym": {
-		"token": "",				//易码平台token
-		"project_id": "15446",		//eostoken项目
-		"retest": 10				//尝试获取验证码的次数
+		"token": "",            //易码平台token
+		"project_id": "15446",  //eostoken项目
+		"retest": 10            //尝试获取验证码的次数
 	}
 }
 ```
