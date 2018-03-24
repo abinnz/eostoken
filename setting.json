@@ -1,0 +1,12 @@
+{
+	"log_file": "passcount.txt",
+	"eostoken": {
+		"inviter_id": "",
+		"password": ""
+	},
+	"ym": {
+		"token": "",
+		"project_id": "15446",
+		"retest": 10
+	}
+}
